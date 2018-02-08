@@ -1,1 +1,6 @@
+Kocham Joanne i Anne i KAsie i Basie i Zosie
+<<<<<<< .mine
 Kocham Joanne i Anne i KAsie i Zosie
+=======
+Kocham Joanne i Anne i KAsie i Basie
+>>>>>>> .theirs
